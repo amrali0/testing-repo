@@ -1,1 +1,8 @@
-blanky
+{
+  "en": {
+    "msg1": "Hello World!"
+  },
+  "es": {
+    "msg1": "¡Hola mundo!"
+  }
+}
